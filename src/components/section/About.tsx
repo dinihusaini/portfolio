@@ -19,10 +19,11 @@ const About = () => {
   const themeColors = useThemeColors();
 
   const roles = [
-    'Software Engineer',
-    'Full-Stack Developer',
-    'Systems Engineer',
-    'Frontend Developer',
+    'Intern Administrasi Pelayanan Pelanggan',
+    'Staff Tata Usaha',
+    'Host Live',
+    'Admin Sales',
+    'Intern QA & QC Engineering',
   ];
 
   const profileImages = [
